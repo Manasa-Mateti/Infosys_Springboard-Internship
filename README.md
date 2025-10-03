@@ -9,7 +9,7 @@ comparing pretrained models for summarization and paraphrasing.
 provided).
 - generated outputs and plots (saved after running notebook).
 ## How to run
-1. Open `code/Milestone1.ipynb` in Google Colab.
+1. Open `Milestone1.ipynb` in Google Colab.
 11
 2. Run the cells from top to bottom (select GPU runtime for speed).
 3. Review `results.json` and `metrics.json` in `/content` and export them to 
