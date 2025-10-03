@@ -4,10 +4,10 @@
 This repository contains the Colab notebook and data for implementing and 
 comparing pretrained models for summarization and paraphrasing.
 ## Structure
-- `code/Milestone1.ipynb` — the main notebook (copy/paste the Colab cells).
-- `data/` — `input1.txt`, `input2.txt`, `ref1.txt`, `ref2.txt` (sample data 
+- `Milestone1.ipynb` — the main notebook (copy/paste the Colab cells).
+- `data` — `input1.txt`, `input2.txt`, `ref1.txt`, `ref2.txt` (sample data 
 provided).
-- `results/` — generated outputs and plots (saved after running notebook).
+- generated outputs and plots (saved after running notebook).
 ## How to run
 1. Open `code/Milestone1.ipynb` in Google Colab.
 11
